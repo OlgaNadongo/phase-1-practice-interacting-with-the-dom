@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(194, 151, 99);
+}
+#container{
+    height: 200px;
+    width:500px;
+    border: 10px solid rgb(158, 33, 85);
+    margin: auto;
+    background-color: rgb(169, 133, 204);
+}
+
+h1{
+    text-align: center;
+}
+#number{
+    height:20px;
+    width: 250px;
+    margin:50 PXauto;
+}
